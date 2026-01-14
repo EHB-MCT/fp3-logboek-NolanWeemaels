@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[13/01/2025]`  
+**Datum:** `[14/01/2025]`  
 **Studentnaam:** `[Nolan Weemaels]`  
 **Groepsnaam:** `[Team Rocket]`
 
